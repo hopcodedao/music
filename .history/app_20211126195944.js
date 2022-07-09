@@ -22,19 +22,6 @@ const app = {
     isRepeat:false,
     config: JSON.parse(localStorage.getItem('PLAYER_STORAGE_KEY')) || {},
     songs : [
-        
-        {
-            name: 'Công Chúa Bong Bóng',
-            singer: 'An Vũ',
-            path: './assets/songs/Công Chúa Bong Bóng.mp3',
-            image: './assets/img/anvu.jpg'
-        },
-        {
-            name: 'Ta Là Của Nhau Slowed Reverb',
-            singer: 'Đông Nhi ft. Ông Cao Thắng',
-            path: './assets/songs/Ta Là Của Nhau Slowed Reverb.mp3',
-            image: './assets/img/talacuanhau.jpg'
-        },
         {
             name: 'Dịu Dàng Em Đến Remix',
             singer: 'Erik',

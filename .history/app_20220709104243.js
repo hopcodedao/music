@@ -26,14 +26,8 @@ const app = {
         {
             name: 'Công Chúa Bong Bóng',
             singer: 'An Vũ',
-            path: './assets/songs/Công Chúa Bong Bóng.mp3',
+            path: './assets/songs/Công Chúa Bong Bóng',
             image: './assets/img/anvu.jpg'
-        },
-        {
-            name: 'Ta Là Của Nhau Slowed Reverb',
-            singer: 'Đông Nhi ft. Ông Cao Thắng',
-            path: './assets/songs/Ta Là Của Nhau Slowed Reverb.mp3',
-            image: './assets/img/talacuanhau.jpg'
         },
         {
             name: 'Dịu Dàng Em Đến Remix',

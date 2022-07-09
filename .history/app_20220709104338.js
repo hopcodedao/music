@@ -31,9 +31,9 @@ const app = {
         },
         {
             name: 'Ta Là Của Nhau Slowed Reverb',
-            singer: 'Đông Nhi ft. Ông Cao Thắng',
-            path: './assets/songs/Ta Là Của Nhau Slowed Reverb.mp3',
-            image: './assets/img/talacuanhau.jpg'
+            singer: 'Erik',
+            path: './assets/songs/Dịu Dàng Em Đến  ERIKCukak Remix.mp3',
+            image: './assets/img/diudangngayemden.jpg'
         },
         {
             name: 'Dịu Dàng Em Đến Remix',
