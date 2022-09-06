@@ -23,23 +23,11 @@ const app = {
     config: JSON.parse(localStorage.getItem('PLAYER_STORAGE_KEY')) || {},
     songs : [
         {
-            name: 'Waiting For You',
-            singer: 'MONO',
-            path: './assets/songs/Waiting For You.mp3',
-            image: './assets/img/mono.jpg'
-        },
-        {
             name: 'Già Cùng Nhau Là Được',
             singer: 'Tùng TeA',
-            path: './assets/songs/Già Cùng Nhau Là Được.mp3',
-            image: './assets/img/gcnld.jpg'
+            path: './assets/songs/Công Chúa Bong Bóng.mp3',
+            image: './assets/img/anvu.jpg'
         },
-        {
-            name: 'Thương Người Không Thương',
-            singer: 'Phát Huy T4',
-            path: './assets/songs/Thương Người Không Thương.mp3',
-            image: './assets/img/tnkt.jfif'
-        },    
         {
             name: 'Công Chúa Bong Bóng',
             singer: 'An Vũ',

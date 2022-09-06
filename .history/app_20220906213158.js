@@ -22,12 +22,7 @@ const app = {
     isRepeat:false,
     config: JSON.parse(localStorage.getItem('PLAYER_STORAGE_KEY')) || {},
     songs : [
-        {
-            name: 'Waiting For You',
-            singer: 'MONO',
-            path: './assets/songs/Waiting For You.mp3',
-            image: './assets/img/mono.jpg'
-        },
+        Waiting For You
         {
             name: 'Già Cùng Nhau Là Được',
             singer: 'Tùng TeA',
@@ -35,10 +30,10 @@ const app = {
             image: './assets/img/gcnld.jpg'
         },
         {
-            name: 'Thương Người Không Thương',
+            name: 'Thương Người Từng Thương',
             singer: 'Phát Huy T4',
-            path: './assets/songs/Thương Người Không Thương.mp3',
-            image: './assets/img/tnkt.jfif'
+            path: './assets/songs/Thương Người Từng Thương.mp3',
+            image: './assets/img/tnkt.jpg'
         },    
         {
             name: 'Công Chúa Bong Bóng',

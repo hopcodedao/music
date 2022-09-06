@@ -36,7 +36,7 @@ const app = {
         },
         {
             name: 'Thương Người Không Thương',
-            singer: 'Phát Huy T4',
+            singer: 'Phát Huy T4',git 
             path: './assets/songs/Thương Người Không Thương.mp3',
             image: './assets/img/tnkt.jfif'
         },    

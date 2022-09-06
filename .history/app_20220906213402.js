@@ -35,10 +35,10 @@ const app = {
             image: './assets/img/gcnld.jpg'
         },
         {
-            name: 'Thương Người Không Thương',
+            name: 'Thương Người Từng Thương',
             singer: 'Phát Huy T4',
-            path: './assets/songs/Thương Người Không Thương.mp3',
-            image: './assets/img/tnkt.jfif'
+            path: './assets/songs/Thương Người Từng Thương.mp3',
+            image: './assets/img/tntt.jpg'
         },    
         {
             name: 'Công Chúa Bong Bóng',

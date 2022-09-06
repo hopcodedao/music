@@ -32,13 +32,13 @@ const app = {
             name: 'Già Cùng Nhau Là Được',
             singer: 'Tùng TeA',
             path: './assets/songs/Già Cùng Nhau Là Được.mp3',
-            image: './assets/img/gcnld.jpg'
+            image: './assets/img/gcnld.j'
         },
         {
             name: 'Thương Người Không Thương',
             singer: 'Phát Huy T4',
             path: './assets/songs/Thương Người Không Thương.mp3',
-            image: './assets/img/tnkt.jfif'
+            image: './assets/img/tnkt.jpg'
         },    
         {
             name: 'Công Chúa Bong Bóng',
